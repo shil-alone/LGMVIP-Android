@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker</string>
+    <string name="main_heading">Lets Grow More</string>
+    <string name="states_text">Countries</string>
+</resources>
